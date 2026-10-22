@@ -1,0 +1,1 @@
+numpy\npandas\nmatplotlib\nscikit-learn>=1.5\ntensorflow>=2.16\nkeras>=3\nscikeras>=0.13\npyspark>=3.5\n
